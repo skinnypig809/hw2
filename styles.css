@@ -1,0 +1,57 @@
+
+/* Uncomment below if images are way too big.
+Selects all image tags and makes them 500px;
+ */
+/*img {*/
+/*  width: 500px;*/
+/*}*/
+
+.big-title {
+
+  
+  justify-content: center;
+  display: flex;
+}
+hr {
+  display: block;
+  height: 10px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+h1{
+  
+  color: #438ae7;
+}
+.gallery-item{
+  height:500px;
+  width: 700px;
+}
+.gallery-page{
+  height:1000px;
+  width: 1000px;
+}
+.gallery-page1{
+  height:1000px;
+  width: 1600px;
+}
+.gallery-page2{
+  height:1000px;
+  width: 1000px;
+}
+.gallery-page3{
+  height:1000px;
+  width: 500px;
+}
+
+.image-container{
+
+  justify-content: space-around;
+  display: flex;
+}
+.big{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 100px;
+  padding-right: 100px;
+}
